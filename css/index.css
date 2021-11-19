@@ -1,4 +1,6 @@
 .test {
     background-color: rgba(156, 156, 243, 0.411);
-    color: chocolate;
+    color: black;
+    text-align: center;
+    height: 2000px;
 }
